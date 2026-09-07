@@ -1,0 +1,24 @@
+[
+  {
+    "signal_id": "sig_2091934115365073331_GOOGLE_ADS_b6c255ea",
+    "post_id": "2091934115365073331",
+    "author_handle": "PPCKirk",
+    "published_at": "Mon Aug 24 17:02:14 +0000 2026",
+    "signal_type": "COUNTER_EVIDENCE",
+    "domain": "GOOGLE_ADS",
+    "claim": "@SarahLevinger That running search ads for returning customers is a waste of money. In all but the rarest of cases, you don't actually have any hold on those customers, *especially* if they are out th...",
+    "claim_quantitative": false,
+    "sample_size": null,
+    "methodology": null,
+    "recommendation": "AVOID_THIS",
+    "is_self_reported": true,
+    "has_data": false,
+    "is_thread": false,
+    "thread_length": 1,
+    "thread_position": "STANDALONE",
+    "is_reply": false,
+    "conviction": "LOW",
+    "evidence_count": 1,
+    "extracted_at": "2026-09-07T13:15:03.436693+00:00"
+  }
+]
