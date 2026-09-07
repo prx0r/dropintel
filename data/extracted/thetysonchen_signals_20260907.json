@@ -1,0 +1,24 @@
+[
+  {
+    "signal_id": "sig_1996965241788551402_PERFORMANCE_MARKETING_5e23360b",
+    "post_id": "1996965241788551402",
+    "author_handle": "thetysonchen",
+    "published_at": "2026-09-07T09:48:28.896517+00:00",
+    "signal_type": "CASE_STUDY",
+    "domain": "PERFORMANCE_MARKETING",
+    "claim": "He started showing up at 4 AM when everyone else got to work between 6-8 AM.  This gave him the first crack at the best calls which allowed him to get the \"hot hand\" early on.  He did this successfull...",
+    "claim_quantitative": false,
+    "sample_size": null,
+    "methodology": null,
+    "recommendation": "DO_THIS",
+    "is_self_reported": true,
+    "has_data": false,
+    "is_thread": false,
+    "thread_length": 1,
+    "thread_position": "STANDALONE",
+    "is_reply": false,
+    "conviction": "LOW",
+    "evidence_count": 1,
+    "extracted_at": "2026-09-07T09:48:28.896539+00:00"
+  }
+]

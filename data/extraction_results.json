@@ -1,0 +1,342 @@
+{
+  "couuor": {
+    "total_posts": 54,
+    "conversations": 18,
+    "threads_found": 14,
+    "replies_found": 2,
+    "signals_extracted": 9
+  },
+  "gilgNYC": {
+    "total_posts": 43,
+    "conversations": 11,
+    "threads_found": 10,
+    "replies_found": 0,
+    "signals_extracted": 13
+  },
+  "FerozeMohideen": {
+    "total_posts": 19,
+    "conversations": 19,
+    "threads_found": 0,
+    "replies_found": 5,
+    "signals_extracted": 5
+  },
+  "til": {
+    "total_posts": 53,
+    "conversations": 29,
+    "threads_found": 20,
+    "replies_found": 6,
+    "signals_extracted": 28
+  },
+  "bryantchou": {
+    "total_posts": 46,
+    "conversations": 23,
+    "threads_found": 18,
+    "replies_found": 2,
+    "signals_extracted": 3
+  },
+  "Kevin": {
+    "total_posts": 45,
+    "conversations": 21,
+    "threads_found": 18,
+    "replies_found": 0,
+    "signals_extracted": 2
+  },
+  "yoavweiss": {
+    "total_posts": 59,
+    "conversations": 27,
+    "threads_found": 15,
+    "replies_found": 2,
+    "signals_extracted": 7
+  },
+  "FredaDuan": {
+    "total_posts": 18,
+    "conversations": 15,
+    "threads_found": 1,
+    "replies_found": 1,
+    "signals_extracted": 14
+  },
+  "iPullRank": {
+    "total_posts": 58,
+    "conversations": 34,
+    "threads_found": 22,
+    "replies_found": 0,
+    "signals_extracted": 18
+  },
+  "AdrianJohnst": {
+    "total_posts": 20,
+    "conversations": 19,
+    "threads_found": 1,
+    "replies_found": 3,
+    "signals_extracted": 2
+  },
+  "DarrenShaw": {
+    "total_posts": 57,
+    "conversations": 31,
+    "threads_found": 19,
+    "replies_found": 12,
+    "signals_extracted": 1
+  },
+  "ethan": {
+    "total_posts": 52,
+    "conversations": 26,
+    "threads_found": 16,
+    "replies_found": 3,
+    "signals_extracted": 1
+  },
+  "kurtinc": {
+    "total_posts": 60,
+    "conversations": 31,
+    "threads_found": 18,
+    "replies_found": 10,
+    "signals_extracted": 32
+  },
+  "TheHVACJack": {
+    "total_posts": 47,
+    "conversations": 16,
+    "threads_found": 14,
+    "replies_found": 1,
+    "signals_extracted": 2
+  },
+  "WilsonCompanies": {
+    "total_posts": 40,
+    "conversations": 20,
+    "threads_found": 20,
+    "replies_found": 0,
+    "signals_extracted": 7
+  },
+  "TaylorHoliday": {
+    "total_posts": 51,
+    "conversations": 16,
+    "threads_found": 8,
+    "replies_found": 0,
+    "signals_extracted": 8
+  },
+  "AddiPPC": {
+    "total_posts": 20,
+    "conversations": 20,
+    "threads_found": 0,
+    "replies_found": 1,
+    "signals_extracted": 34
+  },
+  "pedrodias": {
+    "total_posts": 21,
+    "conversations": 15,
+    "threads_found": 4,
+    "replies_found": 4,
+    "signals_extracted": 4
+  },
+  "seki82214232": {
+    "total_posts": 19,
+    "conversations": 10,
+    "threads_found": 5,
+    "replies_found": 2,
+    "signals_extracted": 0
+  },
+  "rishabhmjain": {
+    "total_posts": 44,
+    "conversations": 11,
+    "threads_found": 11,
+    "replies_found": 0,
+    "signals_extracted": 4
+  },
+  "connorrolain": {
+    "total_posts": 50,
+    "conversations": 23,
+    "threads_found": 15,
+    "replies_found": 4,
+    "signals_extracted": 3
+  },
+  "daviefogarty": {
+    "total_posts": 45,
+    "conversations": 18,
+    "threads_found": 18,
+    "replies_found": 0,
+    "signals_extracted": 8
+  },
+  "BranaRakic": {
+    "total_posts": 20,
+    "conversations": 18,
+    "threads_found": 2,
+    "replies_found": 0,
+    "signals_extracted": 1
+  },
+  "MenachemAni": {
+    "total_posts": 46,
+    "conversations": 18,
+    "threads_found": 17,
+    "replies_found": 0,
+    "signals_extracted": 13
+  },
+  "luckwi": {
+    "total_posts": 51,
+    "conversations": 30,
+    "threads_found": 21,
+    "replies_found": 2,
+    "signals_extracted": 3
+  },
+  "codyplof": {
+    "total_posts": 42,
+    "conversations": 12,
+    "threads_found": 11,
+    "replies_found": 0,
+    "signals_extracted": 0
+  },
+  "retailgeek": {
+    "total_posts": 55,
+    "conversations": 35,
+    "threads_found": 20,
+    "replies_found": 1,
+    "signals_extracted": 22
+  },
+  "JoyanneHawkins": {
+    "total_posts": 43,
+    "conversations": 19,
+    "threads_found": 17,
+    "replies_found": 0,
+    "signals_extracted": 1
+  },
+  "RajeswarSai": {
+    "total_posts": 19,
+    "conversations": 17,
+    "threads_found": 2,
+    "replies_found": 3,
+    "signals_extracted": 6
+  },
+  "JordanBrompton": {
+    "total_posts": 9,
+    "conversations": 8,
+    "threads_found": 1,
+    "replies_found": 2,
+    "signals_extracted": 0
+  },
+  "lilyraynyc": {
+    "total_posts": 24,
+    "conversations": 14,
+    "threads_found": 7,
+    "replies_found": 4,
+    "signals_extracted": 2
+  },
+  "andrewjfaris": {
+    "total_posts": 45,
+    "conversations": 14,
+    "threads_found": 13,
+    "replies_found": 0,
+    "signals_extracted": 7
+  },
+  "aleyda": {
+    "total_posts": 46,
+    "conversations": 25,
+    "threads_found": 19,
+    "replies_found": 0,
+    "signals_extracted": 12
+  },
+  "ecomchrisx": {
+    "handle": "ecomchrisx",
+    "error": "No raw posts found"
+  },
+  "PSH": {
+    "total_posts": 20,
+    "conversations": 18,
+    "threads_found": 1,
+    "replies_found": 1,
+    "signals_extracted": 10
+  },
+  "seosmarty": {
+    "total_posts": 23,
+    "conversations": 20,
+    "threads_found": 3,
+    "replies_found": 3,
+    "signals_extracted": 4
+  },
+  "ndrewpignanelli": {
+    "total_posts": 24,
+    "conversations": 15,
+    "threads_found": 4,
+    "replies_found": 3,
+    "signals_extracted": 3
+  },
+  "georgeprobook": {
+    "total_posts": 21,
+    "conversations": 17,
+    "threads_found": 3,
+    "replies_found": 7,
+    "signals_extracted": 0
+  },
+  "igrigorik": {
+    "total_posts": 55,
+    "conversations": 23,
+    "threads_found": 17,
+    "replies_found": 3,
+    "signals_extracted": 36
+  },
+  "toddlzt0": {
+    "total_posts": 20,
+    "conversations": 17,
+    "threads_found": 2,
+    "replies_found": 2,
+    "signals_extracted": 8
+  },
+  "LucaHadife": {
+    "total_posts": 2,
+    "conversations": 2,
+    "threads_found": 0,
+    "replies_found": 0,
+    "signals_extracted": 0
+  },
+  "DenneyDara": {
+    "total_posts": 45,
+    "conversations": 11,
+    "threads_found": 11,
+    "replies_found": 0,
+    "signals_extracted": 15
+  },
+  "cyberandy": {
+    "total_posts": 23,
+    "conversations": 19,
+    "threads_found": 3,
+    "replies_found": 2,
+    "signals_extracted": 7
+  },
+  "mikebeckhamsm": {
+    "total_posts": 61,
+    "conversations": 25,
+    "threads_found": 18,
+    "replies_found": 3,
+    "signals_extracted": 8
+  },
+  "rmstein": {
+    "total_posts": 43,
+    "conversations": 15,
+    "threads_found": 14,
+    "replies_found": 1,
+    "signals_extracted": 6
+  },
+  "thetysonchen": {
+    "total_posts": 56,
+    "conversations": 20,
+    "threads_found": 7,
+    "replies_found": 2,
+    "signals_extracted": 1
+  },
+  "Romain": {
+    "total_posts": 50,
+    "conversations": 17,
+    "threads_found": 12,
+    "replies_found": 2,
+    "signals_extracted": 30
+  },
+  "Seanfrank": {
+    "total_posts": 41,
+    "conversations": 18,
+    "threads_found": 18,
+    "replies_found": 0,
+    "signals_extracted": 0
+  },
+  "apurvas96": {
+    "total_posts": 27,
+    "conversations": 9,
+    "threads_found": 3,
+    "replies_found": 2,
+    "signals_extracted": 1
+  }
+}

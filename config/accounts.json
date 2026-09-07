@@ -1,0 +1,516 @@
+{
+  "version": "2.0",
+  "description": "35 accounts for DROPINTEL — commerce + agent infrastructure + home services",
+  "last_updated": "2026-09-07",
+  "accounts": [
+    {
+      "handle": "rmstein",
+      "name": "Robby Stein",
+      "domains": ["AGENTIC_COMMERCE", "AEO", "GOOGLE_ADS"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "VP Product, Google Search — building consumer side of agent commerce",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "igrigorik",
+      "name": "Ilya Grigorik",
+      "domains": ["AGENTIC_COMMERCE", "SHOPIFY"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Shopify Distinguished Engineer — UCP/MCP/agentic commerce plumbing",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "yoavweiss",
+      "name": "Yoav Weiss",
+      "domains": ["AGENTIC_COMMERCE", "SHOPIFY"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Shopify/Web standards — W3C ecommerce for humans + agents",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "Romain_Lapeyre",
+      "name": "Romain Lapeyre",
+      "domains": ["AGENTIC_COMMERCE", "CRO"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Gorgias CEO — published MCP adoption data from merchants",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "bryantchou",
+      "name": "Bryant Chou",
+      "domains": ["AGENTIC_COMMERCE", "SEO", "AEO"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Webflow cofounder → Ploy — AI operates websites/marketing",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "thetysonchen",
+      "name": "Tyson Chen",
+      "domains": ["AGENTIC_COMMERCE", "HOME_SERVICES"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Avoca AI founder — 753 followers, $1B valuation, physical services",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "apurvas96",
+      "name": "Apurva Shrivastava",
+      "domains": ["AGENTIC_COMMERCE", "HOME_SERVICES"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Avoca cofounder — physical services/AI thesis",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "toddlzt0",
+      "name": "Todd Li",
+      "domains": ["VOICE_AI", "AGENTIC_COMMERCE"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Retell AI — ~57 followers, tens of millions ARR",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "luckwi",
+      "name": "Guillaume Luccisano",
+      "domains": ["AGENTIC_COMMERCE", "CRO"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "3× YC founder — Yuma AI agent layer for commerce CX",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "WilsonCompanies",
+      "name": "John Wilson",
+      "domains": ["HOME_SERVICES", "DTC_ECONOMICS"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Actual home-services operator building toward $100M",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "TheHVACJack",
+      "name": "Jack Carr",
+      "domains": ["HOME_SERVICES"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "HVAC operator — ground truth on what works operationally",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "JoyanneHawkins",
+      "name": "Joy Hawkins",
+      "domains": ["LOCAL_SEO", "GOOGLE_ADS"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Google Business Profile/local-search experimenter",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "DarrenShaw_",
+      "name": "Darren Shaw",
+      "domains": ["LOCAL_SEO", "SEO"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Whitespark — empirical local-ranking experiments",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "JordanBrompton",
+      "name": "Jordan Brompton",
+      "domains": ["HOME_SERVICES", "INTERNATIONAL"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "myenergi cofounder — EV/charging/renewable market ground truth",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "georgeprobook",
+      "name": "George Eliadis",
+      "domains": ["HOME_SERVICES", "AGENTIC_COMMERCE"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Probook CEO — 2,542 jobs in month one, zero human intervention",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "FerozeMohideen",
+      "name": "Feroze Mohideen",
+      "domains": ["HOME_SERVICES", "AGENTIC_COMMERCE"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Robby CTO — AI + home-service technician/data/revenue layer",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "LucaHadife",
+      "name": "Luca Hadife",
+      "domains": ["HOME_SERVICES", "AGENTIC_COMMERCE"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Kebra founder — field → asset memory → automated parts/warranty/admin",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "AdrianJohnst",
+      "name": "Adrian Johnston",
+      "domains": ["HOME_SERVICES", "VOICE_AI"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Elyos AI founder — fully autonomous trade/field-service agents",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "cyberandy",
+      "name": "Andrea Volpini",
+      "domains": ["AEO", "AGENTIC_COMMERCE"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "WordLift — Reasoning Web, provenance, context graphs; W3C workshop",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "FredaDuan",
+      "name": "Freda Duan",
+      "domains": ["AGENTIC_COMMERCE"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "High-level agentic-commerce analysis, not guru content",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "seki82214232",
+      "name": "関",
+      "domains": ["AGENTIC_COMMERCE", "INTERNATIONAL"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Japanese ecommerce analyst — thoughtful Shopify agentic commerce breakdowns",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "pedrodias",
+      "name": "Pedro Dias",
+      "domains": ["AGENTIC_COMMERCE"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Skeptical/technical UCP interpretation, not hype",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "seosmarty",
+      "name": "Ann Smarty",
+      "domains": ["AEO", "SEO"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Finds concrete AEO/ecommerce research, implementation details",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "lilyraynyc",
+      "name": "Lily Ray",
+      "domains": ["AEO", "SEO"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Empirical AI-search work, third-party trust/citation effects",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "AddiPPC",
+      "name": "Andrey Kisselev",
+      "domains": ["GOOGLE_ADS", "PRODUCT_DISCOVERY"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Granular Google Shopping/Merchant Center implementation details",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "PSH_Lewis",
+      "name": "Patrick Lewis",
+      "domains": ["AGENTIC_COMMERCE"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "RAG/tool-use/agents researcher at Cohere",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "RajeswarSai",
+      "name": "Sai Rajeswar",
+      "domains": ["AGENTIC_COMMERCE"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Hard agent evals — best model only 37.4% on stateful tasks",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "ndrewpignanelli",
+      "name": "Andrew Pignanelli",
+      "domains": ["DROPSHIPPING", "AGENTIC_COMMERCE"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Zero-person-company experiments, writes about failures too",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "BranaRakic",
+      "name": "Brana Rakic",
+      "domains": ["AGENTIC_COMMERCE"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "OriginTrail CTO — verifiable product/supply-chain knowledge",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "kurtinc",
+      "name": "Kurt Elster",
+      "domains": ["AEO", "SHOPIFY", "AGENTIC_COMMERCE"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Shopify empirical data, 94M sessions study, AI referrals 2.56x checkout rate",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "gilgNYC",
+      "name": "Gil Greenberg",
+      "domains": ["AGENTIC_COMMERCE", "SHOPIFY", "CRO"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Shopify Staff PM, agentic checkout, Catalog API experiments",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "TaylorHoliday",
+      "name": "Taylor Holiday",
+      "domains": ["DTC_ECONOMICS", "PERFORMANCE_MARKETING"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "DTC P&L, contribution margin, forecasting billions GMV",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "iPullRank",
+      "name": "Mike King",
+      "domains": ["AGENTIC_COMMERCE", "SEO", "AEO"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Agent-shaped web, APIs, machine-readable knowledge",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "aleyda",
+      "name": "Aleyda Solís",
+      "domains": ["AEO", "SEO", "INTERNATIONAL"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Strongest empirical AEO/AI-search researcher, citation studies",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "Seanfrank",
+      "name": "Sean Frank",
+      "domains": ["DTC_ECONOMICS", "AGENTIC_COMMERCE"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Ridge CEO, nine-figure DTC, product feeds",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "codyplof",
+      "name": "Cody Plofker",
+      "domains": ["META_CREATIVE", "CRO", "PERFORMANCE_MARKETING"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Jones Road, performance creative systems, Meta architecture",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "couuor",
+      "name": "Connor MacDonald",
+      "domains": ["DTC_ECONOMICS", "PERFORMANCE_MARKETING"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Ridge CMO, new company without Ridge halo",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "connorrolain",
+      "name": "Connor Rolain",
+      "domains": ["CRO", "PERFORMANCE_MARKETING"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "HexClad growth, experimental CRO",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "mikebeckhamsm",
+      "name": "Mike Beckham",
+      "domains": ["DTC_ECONOMICS", "AMAZON"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Simple Modern, Amazon/retail/DTC, AI deployment",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "MenachemAni",
+      "name": "Menachem Ani",
+      "domains": ["GOOGLE_ADS", "PRODUCT_DISCOVERY"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Google Ads, intent-based campaigns, PMax skepticism",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "Kevin_Indig",
+      "name": "Kevin Indig",
+      "domains": ["SEO", "AEO"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Data-heavy AI search, measuring reality",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "ethan_graphite",
+      "name": "Ethan Smith",
+      "domains": ["AEO", "PRODUCT_DISCOVERY"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "CEO Graphite, AEO experiments, low-volume high-signal",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "rishabhmjain",
+      "name": "Rishabh Jain",
+      "domains": ["AGENTIC_COMMERCE"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "FERMÀT founder, AI-native commerce, 100+ brands",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "til_fabian",
+      "name": "Fabian van Til",
+      "domains": ["INTERNATIONAL", "SEO"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "European localization, Norwegian/Swedish SEO results",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "daviefogarty",
+      "name": "Davie Fogarty",
+      "domains": ["DROPSHIPPING", "PERFORMANCE_MARKETING"],
+      "tier": "BRONZE",
+      "weight": 0.6,
+      "notes": "AI creatives, dropshipping tests, higher noise",
+      "fetch_replies": false,
+      "fetch_threads": false
+    },
+    {
+      "handle": "ecomchrisx",
+      "name": "Chris Krassnig",
+      "domains": ["GOOGLE_ADS", "DROPSHIPPING"],
+      "tier": "BRONZE",
+      "weight": 0.6,
+      "notes": "Google Shopping/PMax, self-reported metrics discounted",
+      "fetch_replies": false,
+      "fetch_threads": false
+    },
+    {
+      "handle": "andrewjfaris",
+      "name": "Andrew Faris",
+      "domains": ["DTC_ECONOMICS", "PERFORMANCE_MARKETING"],
+      "tier": "BRONZE",
+      "weight": 0.6,
+      "notes": "Profitability-first, antidote to revenue screenshots",
+      "fetch_replies": false,
+      "fetch_threads": false
+    },
+    {
+      "handle": "DenneyDara",
+      "name": "Dara Denney",
+      "domains": ["META_CREATIVE", "PERFORMANCE_MARKETING"],
+      "tier": "BRONZE",
+      "weight": 0.6,
+      "notes": "Performance creative, AI-assisted research",
+      "fetch_replies": false,
+      "fetch_threads": false
+    },
+    {
+      "handle": "retailgeek",
+      "name": "Jason Goldberg",
+      "domains": ["AGENTIC_COMMERCE", "PRODUCT_DISCOVERY"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Ecommerce infrastructure, product feeds, agentic commerce",
+      "fetch_replies": true,
+      "fetch_threads": true
+    }
+  ],
+  "domains": {
+    "AEO": "AI Engine Optimization — how products get found by AI assistants",
+    "GOOGLE_ADS": "Google Ads, PMax, Shopping, Merchant Center",
+    "META_CREATIVE": "Meta/TikTok ad creative, hooks, thumbnails",
+    "CRO": "Conversion rate optimization, A/B testing, UX",
+    "PRODUCT_DISCOVERY": "How products get found organically and via social",
+    "INTERNATIONAL": "Cross-border, localization, non-English markets",
+    "AGENTIC_COMMERCE": "AI agents, agentic checkout, structured data",
+    "DTC_ECONOMICS": "Unit economics, P&L, contribution margin",
+    "SHOPIFY": "Shopify-specific tools, apps, themes",
+    "AMAZON": "Amazon marketplace, FBA, PPC",
+    "DROPSHIPPING": "Dropshipping operations, suppliers",
+    "PERFORMANCE_MARKETING": "Media buying, scaling, acquisition",
+    "SEO": "Organic search, technical SEO",
+    "CONTENT": "Content marketing",
+    "HOME_SERVICES": "EV installation, heat pumps, HVAC, electrical, plumbing",
+    "VOICE_AI": "Voice agents, telephony, call handling",
+    "LOCAL_SEO": "Google Business Profile, local search, maps"
+  }
+}

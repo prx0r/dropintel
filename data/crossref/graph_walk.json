@@ -1,0 +1,234 @@
+{
+  "generated_at": "2026-09-07T10:05:09.239230+00:00",
+  "seed_accounts": [
+    "kurtinc",
+    "igrigorik",
+    "Romain_Lapeyre",
+    "iPullRank",
+    "gilgNYC"
+  ],
+  "discovered": 170,
+  "accounts": [
+    {
+      "handle": "Tesla",
+      "mentioned_by": [
+        "kurtinc",
+        "jess_X",
+        "jess_X",
+        "jess_X",
+        "jess_X",
+        "jess_X",
+        "jess_X",
+        "jess_X"
+      ],
+      "mention_count": 8,
+      "depth": 1,
+      "score": 90
+    },
+    {
+      "handle": "Shopify",
+      "mentioned_by": [
+        "kurtinc",
+        "kurtinc",
+        "kurtinc",
+        "kurtinc"
+      ],
+      "mention_count": 4,
+      "depth": 1,
+      "score": 50
+    },
+    {
+      "handle": "tobi",
+      "mentioned_by": [
+        "DHartenfels",
+        "igrigorik",
+        "igrigorik",
+        "gilgNYC"
+      ],
+      "mention_count": 4,
+      "depth": 2,
+      "score": 45
+    },
+    {
+      "handle": "johnhickey1970",
+      "mentioned_by": [
+        "ChrisLangSocial",
+        "ChrisLangSocial",
+        "ChrisLangSocial",
+        "ChrisLangSocial"
+      ],
+      "mention_count": 4,
+      "depth": 2,
+      "score": 45
+    },
+    {
+      "handle": "jess_X",
+      "mentioned_by": [
+        "JoshAquilaDev",
+        "JoshAquilaDev",
+        "JoshAquilaDev",
+        "JoshAquilaDev"
+      ],
+      "mention_count": 4,
+      "depth": 2,
+      "score": 45
+    },
+    {
+      "handle": "gavinmckew",
+      "mentioned_by": [
+        "kurtinc",
+        "andrei_monti",
+        "andrei_monti"
+      ],
+      "mention_count": 3,
+      "depth": 1,
+      "score": 40
+    },
+    {
+      "handle": "theisaacmed",
+      "mentioned_by": [
+        "kurtinc",
+        "ChrisLangSocial",
+        "ChrisLangSocial"
+      ],
+      "mention_count": 3,
+      "depth": 1,
+      "score": 40
+    },
+    {
+      "handle": "VeryWellVersed",
+      "mentioned_by": [
+        "iPullRank",
+        "iPullRank",
+        "iPullRank"
+      ],
+      "mention_count": 3,
+      "depth": 1,
+      "score": 40
+    },
+    {
+      "handle": "ecom_cork",
+      "mentioned_by": [
+        "ChrisLangSocial",
+        "johnhickey1970",
+        "theisaacmed"
+      ],
+      "mention_count": 3,
+      "depth": 2,
+      "score": 35
+    },
+    {
+      "handle": "kinngh",
+      "mentioned_by": [
+        "andrei_monti",
+        "gavinmckew",
+        "gavinmckew"
+      ],
+      "mention_count": 3,
+      "depth": 2,
+      "score": 35
+    },
+    {
+      "handle": "DataDeLaurier",
+      "mentioned_by": [
+        "JoshAquilaDev",
+        "JoshAquilaDev",
+        "JoshAquilaDev"
+      ],
+      "mention_count": 3,
+      "depth": 2,
+      "score": 35
+    },
+    {
+      "handle": "DavidOndrej1",
+      "mentioned_by": [
+        "gavinmckew",
+        "gavinmckew",
+        "gavinmckew"
+      ],
+      "mention_count": 3,
+      "depth": 2,
+      "score": 35
+    },
+    {
+      "handle": "hunkybill",
+      "mentioned_by": [
+        "kurtinc",
+        "igrigorik"
+      ],
+      "mention_count": 2,
+      "depth": 1,
+      "score": 30
+    },
+    {
+      "handle": "shopify",
+      "mentioned_by": [
+        "kurtinc",
+        "igrigorik"
+      ],
+      "mention_count": 2,
+      "depth": 1,
+      "score": 30
+    },
+    {
+      "handle": "zmbnski",
+      "mentioned_by": [
+        "kurtinc",
+        "andrei_monti"
+      ],
+      "mention_count": 2,
+      "depth": 1,
+      "score": 30
+    },
+    {
+      "handle": "ChatGPT",
+      "mentioned_by": [
+        "igrigorik",
+        "igrigorik"
+      ],
+      "mention_count": 2,
+      "depth": 1,
+      "score": 30
+    },
+    {
+      "handle": "garrettsussman",
+      "mentioned_by": [
+        "iPullRank",
+        "iPullRank"
+      ],
+      "mention_count": 2,
+      "depth": 1,
+      "score": 30
+    },
+    {
+      "handle": "profound",
+      "mentioned_by": [
+        "iPullRank",
+        "iPullRank"
+      ],
+      "mention_count": 2,
+      "depth": 1,
+      "score": 30
+    },
+    {
+      "handle": "CouchGuyPat",
+      "mentioned_by": [
+        "iPullRank",
+        "iPullRank"
+      ],
+      "mention_count": 2,
+      "depth": 1,
+      "score": 30
+    },
+    {
+      "handle": "cramforce",
+      "mentioned_by": [
+        "gilgNYC",
+        "tobi"
+      ],
+      "mention_count": 2,
+      "depth": 1,
+      "score": 30
+    }
+  ]
+}

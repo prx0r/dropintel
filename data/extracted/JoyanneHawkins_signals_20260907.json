@@ -1,0 +1,24 @@
+[
+  {
+    "signal_id": "sig_2096250482612109715_GOOGLE_ADS_b90735f7",
+    "post_id": "2096250482612109715",
+    "author_handle": "JoyanneHawkins",
+    "published_at": "2026-09-07T09:54:22.669798+00:00",
+    "signal_type": "TOOL_RECOMMENDATION",
+    "domain": "GOOGLE_ADS",
+    "claim": "Google ads can't possibly get any bigger, right?  Wrong..... https://t.co/fHoTaUlKHe",
+    "claim_quantitative": false,
+    "sample_size": null,
+    "methodology": null,
+    "recommendation": null,
+    "is_self_reported": false,
+    "has_data": true,
+    "is_thread": false,
+    "thread_length": 1,
+    "thread_position": "STANDALONE",
+    "is_reply": false,
+    "conviction": "MEDIUM",
+    "evidence_count": 1,
+    "extracted_at": "2026-09-07T09:54:22.669818+00:00"
+  }
+]

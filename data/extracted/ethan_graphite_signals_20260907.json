@@ -1,0 +1,24 @@
+[
+  {
+    "signal_id": "sig_1620687124851994624_SHOPIFY_09eedd9a",
+    "post_id": "1620687124851994624",
+    "author_handle": "ethan_graphite",
+    "published_at": "2026-09-07T09:54:44.780393+00:00",
+    "signal_type": "TOOL_RECOMMENDATION",
+    "domain": "SHOPIFY",
+    "claim": "@Kevin_Indig The biggest unanswered question is how do you measure the ROI of SEO, especially for a high consideration conversion like signing up for a paid @Shopify or @Atlassian account?",
+    "claim_quantitative": false,
+    "sample_size": null,
+    "methodology": null,
+    "recommendation": null,
+    "is_self_reported": true,
+    "has_data": false,
+    "is_thread": false,
+    "thread_length": 1,
+    "thread_position": "STANDALONE",
+    "is_reply": false,
+    "conviction": "LOW",
+    "evidence_count": 1,
+    "extracted_at": "2026-09-07T09:54:44.780420+00:00"
+  }
+]

@@ -1,0 +1,225 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T10:27:01.129898+00:00",
+  "summary": {
+    "total_signals": 433,
+    "empirical_data": 65,
+    "validations": 52,
+    "counter_evidence": 16,
+    "unique_accounts": 42
+  },
+  "domains": {
+    "AGENTIC_COMMERCE": 97,
+    "AEO": 89,
+    "SHOPIFY": 61,
+    "PERFORMANCE_MARKETING": 51,
+    "GOOGLE_ADS": 35,
+    "DTC_ECONOMICS": 29,
+    "CRO": 19,
+    "AMAZON": 18,
+    "META_CREATIVE": 15,
+    "PRODUCT_DISCOVERY": 14,
+    "DROPSHIPPING": 4,
+    "INTERNATIONAL": 1
+  },
+  "top_accounts": {
+    "igrigorik": 46,
+    "Romain_Lapeyre": 36,
+    "AddiPPC": 34,
+    "kurtinc": 32,
+    "til_fabian": 28,
+    "retailgeek": 27,
+    "iPullRank": 19,
+    "aleyda": 18,
+    "gilgNYC": 16,
+    "DenneyDara": 16
+  },
+  "top_empirical_claims": [
+    {
+      "author": "FredaDuan",
+      "domain": "AGENTIC_COMMERCE",
+      "claim": "Takeaways from @Zai_org earnings:  MaaS ARR (~API) scaled from ~$250M in March -> ~$1B in July -> $1.6B in August (monthly runrate) / $2.0B (weekly runrate). August rev alone > Zhipu\u2019s entire 1H26 API",
+      "quantitative": true,
+      "sample_size": null
+    },
+    {
+      "author": "FredaDuan",
+      "domain": "DTC_ECONOMICS",
+      "claim": "Takeaways from @Zai_org earnings:  MaaS ARR (~API) scaled from ~$250M in March -> ~$1B in July -> $1.6B in August (monthly runrate) / $2.0B (weekly runrate). August rev alone > Zhipu\u2019s entire 1H26 API",
+      "quantitative": true,
+      "sample_size": null
+    },
+    {
+      "author": "FredaDuan",
+      "domain": "AEO",
+      "claim": "I\u2019ve been surveying builders on GLM 5.2\u2019s actual performance - \"don\u2019t trust the benchmark, listen to what builders actually think.\" Would love to hear feedback from anyone with hands-on experience usi",
+      "quantitative": true,
+      "sample_size": null
+    },
+    {
+      "author": "FredaDuan",
+      "domain": "AGENTIC_COMMERCE",
+      "claim": "I\u2019ve been surveying builders on GLM 5.2\u2019s actual performance - \"don\u2019t trust the benchmark, listen to what builders actually think.\" Would love to hear feedback from anyone with hands-on experience usi",
+      "quantitative": true,
+      "sample_size": null
+    },
+    {
+      "author": "FredaDuan",
+      "domain": "DTC_ECONOMICS",
+      "claim": "Prediction Markets | World Cup Tracker  The World Cup has clearly driven a major uplift in prediction market activity. $Kalshi's daily volume reached $1B for the first time.  On a category basis, socc",
+      "quantitative": true,
+      "sample_size": null
+    },
+    {
+      "author": "til_fabian",
+      "domain": "AEO",
+      "claim": "How we scaled a fashion brand to $730,000+ in organic revenue.  11 months. One client. Three plays we ran every week.  SEO is a long-term play. No 90-day shortcuts.  We did three things harder than mo",
+      "quantitative": true,
+      "sample_size": null
+    },
+    {
+      "author": "til_fabian",
+      "domain": "PRODUCT_DISCOVERY",
+      "claim": "How we scaled a fashion brand to $730,000+ in organic revenue.  11 months. One client. Three plays we ran every week.  SEO is a long-term play. No 90-day shortcuts.  We did three things harder than mo",
+      "quantitative": true,
+      "sample_size": null
+    },
+    {
+      "author": "til_fabian",
+      "domain": "PERFORMANCE_MARKETING",
+      "claim": "How we scaled a fashion brand to $730,000+ in organic revenue.  11 months. One client. Three plays we ran every week.  SEO is a long-term play. No 90-day shortcuts.  We did three things harder than mo",
+      "quantitative": true,
+      "sample_size": null
+    },
+    {
+      "author": "FredaDuan",
+      "domain": "AEO",
+      "claim": "China Open-Source LLM Tracker  US$10-15B of total ARR, of which core LLM revenue (excluding Byte / Seedance) is ~$6-8B.  Growth has been phenomenal. Take Zhipu as an example (more data available as a.",
+      "quantitative": true,
+      "sample_size": null
+    },
+    {
+      "author": "FredaDuan",
+      "domain": "AGENTIC_COMMERCE",
+      "claim": "China Open-Source LLM Tracker  US$10-15B of total ARR, of which core LLM revenue (excluding Byte / Seedance) is ~$6-8B.  Growth has been phenomenal. Take Zhipu as an example (more data available as a.",
+      "quantitative": true,
+      "sample_size": null
+    }
+  ],
+  "corroborated_claims": [
+    {
+      "claim_id": "AGENTIC_COMMERCE:agent",
+      "claim_text": "cofounder puts your agents on an org chart enabling massive parallel work and each agent gets a specialized workspace depending on its function on the highest level cofounder manages it all ki",
+      "sources": [
+        "ndrewpignanelli",
+        "kurtinc",
+        "gilgNYC",
+        "cyberandy",
+        "RajeswarSai",
+        "FerozeMohideen",
+        "DenneyDara",
+        "iPullRank",
+        "rishabhmjain",
+        "bryantchou",
+        "Romain_Lapeyre",
+        "igrigorik"
+      ],
+      "evidence_strength": 12,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "AEO:",
+      "claim_text": "a few thoughts on the open vs closed model landscape models need to be either truly great or very cheap everything in between will get competed away we will see consolidation in both camps",
+      "sources": [
+        "FredaDuan",
+        "pedrodias",
+        "rmstein",
+        "andrewjfaris",
+        "toddlzt0",
+        "cyberandy",
+        "FerozeMohideen",
+        "yoavweiss"
+      ],
+      "evidence_strength": 8,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "PERFORMANCE_MARKETING:",
+      "claim_text": "i have built thousands of backlinks over the years good ones bad ones every kind of link in between heres what i wish someone told me before i spent my first dollar on links most links dont",
+      "sources": [
+        "til_fabian",
+        "WilsonCompanies",
+        "AddiPPC",
+        "luckwi",
+        "mikebeckhamsm",
+        "FerozeMohideen",
+        "Kevin_Indig",
+        "DarrenShaw_"
+      ],
+      "evidence_strength": 8,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "AEO:ai",
+      "claim_text": "rt _kire_kara_ psst want more faithful verifiable and robust llm reasoning than with cot but using external solvers is meh our flar",
+      "sources": [
+        "PSH_Lewis",
+        "til_fabian",
+        "pedrodias",
+        "rmstein",
+        "AddiPPC",
+        "aleyda",
+        "iPullRank"
+      ],
+      "evidence_strength": 7,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "AGENTIC_COMMERCE:agent_ai",
+      "claim_text": "rt therealadamg httpsopenaicomindexresearchaccelerationviewinsideopenai today we are providing a detailed snapshot of how agentic systems have contributed to our progr",
+      "sources": [
+        "ndrewpignanelli",
+        "BranaRakic",
+        "retailgeek",
+        "RajeswarSai",
+        "bryantchou",
+        "Romain_Lapeyre"
+      ],
+      "evidence_strength": 6,
+      "validation_status": "SUPPORTED"
+    }
+  ],
+  "recommendations": [
+    "Strong day for empirical data: 65 quantitative claims found",
+    "High-confidence corroborated claim: cofounder puts your agents on an org chart enabling massive parallel work and ea...",
+    "High-corroboration source: @BranaRakic (100%)",
+    "Strong signal flow from agentic commerce domain"
+  ],
+  "top_corroborated_sources": [
+    {
+      "handle": "BranaRakic",
+      "corroboration_rate": 1.0,
+      "total_signals": 1
+    },
+    {
+      "handle": "apurvas96",
+      "corroboration_rate": 1.0,
+      "total_signals": 1
+    },
+    {
+      "handle": "pedrodias",
+      "corroboration_rate": 1.0,
+      "total_signals": 4
+    },
+    {
+      "handle": "JoyanneHawkins",
+      "corroboration_rate": 1.0,
+      "total_signals": 1
+    },
+    {
+      "handle": "bryantchou",
+      "corroboration_rate": 1.0,
+      "total_signals": 3
+    }
+  ]
+}

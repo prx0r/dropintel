@@ -1,0 +1,24 @@
+[
+  {
+    "signal_id": "sig_2048795126890160508_SHOPIFY_30a6a947",
+    "post_id": "2048795126890160508",
+    "author_handle": "apurvas96",
+    "published_at": "2026-09-07T10:20:40.375735+00:00",
+    "signal_type": "OBSERVATION",
+    "domain": "SHOPIFY",
+    "claim": "We believe the most value will accrue at the application layer, where the real work happens. While frontier labs have cracked into the app layer for data-heavy use cases like coding, the battle for co...",
+    "claim_quantitative": false,
+    "sample_size": null,
+    "methodology": null,
+    "recommendation": null,
+    "is_self_reported": true,
+    "has_data": false,
+    "is_thread": false,
+    "thread_length": 1,
+    "thread_position": "STANDALONE",
+    "is_reply": false,
+    "conviction": "LOW",
+    "evidence_count": 1,
+    "extracted_at": "2026-09-07T10:20:40.375766+00:00"
+  }
+]

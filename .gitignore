@@ -1,0 +1,33 @@
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+secrets/
+.agent-vault/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+
+# Data (large files)
+data/raw/
+*.parquet
+*.duckdb
+*.duckdb.wal
+*.zst
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db

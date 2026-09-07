@@ -1,0 +1,24 @@
+[
+  {
+    "signal_id": "sig_2095819429938413976_AGENTIC_COMMERCE_295b8da3",
+    "post_id": "2095819429938413976",
+    "author_handle": "BranaRakic",
+    "published_at": "2026-09-07T10:26:53.696915+00:00",
+    "signal_type": "VALIDATION",
+    "domain": "AGENTIC_COMMERCE",
+    "claim": "For one agent and one run I agree.  We're building for a world of many agents running across various domains. The opportunity is to turn that symbolic knowledge into a durable, shared and independentl...",
+    "claim_quantitative": false,
+    "sample_size": null,
+    "methodology": null,
+    "recommendation": null,
+    "is_self_reported": false,
+    "has_data": true,
+    "is_thread": false,
+    "thread_length": 1,
+    "thread_position": "STANDALONE",
+    "is_reply": false,
+    "conviction": "MEDIUM",
+    "evidence_count": 1,
+    "extracted_at": "2026-09-07T10:26:53.696945+00:00"
+  }
+]

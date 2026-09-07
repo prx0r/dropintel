@@ -1,0 +1,865 @@
+{
+  "generated_at": "2026-09-07T10:27:01.064468+00:00",
+  "total_signals": 433,
+  "total_claims": 301,
+  "corroborated_claims": [
+    {
+      "claim_id": "AGENTIC_COMMERCE:agent",
+      "claim_text": "cofounder puts your agents on an org chart enabling massive parallel work and each agent gets a specialized workspace depending on its function on the highest level cofounder manages it all ki",
+      "sources": [
+        "ndrewpignanelli",
+        "kurtinc",
+        "gilgNYC",
+        "cyberandy",
+        "RajeswarSai",
+        "FerozeMohideen",
+        "DenneyDara",
+        "iPullRank",
+        "rishabhmjain",
+        "bryantchou",
+        "Romain_Lapeyre",
+        "igrigorik"
+      ],
+      "evidence_strength": 12,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "AEO:",
+      "claim_text": "a few thoughts on the open vs closed model landscape models need to be either truly great or very cheap everything in between will get competed away we will see consolidation in both camps",
+      "sources": [
+        "FredaDuan",
+        "pedrodias",
+        "rmstein",
+        "andrewjfaris",
+        "toddlzt0",
+        "cyberandy",
+        "FerozeMohideen",
+        "yoavweiss"
+      ],
+      "evidence_strength": 8,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "PERFORMANCE_MARKETING:",
+      "claim_text": "i have built thousands of backlinks over the years good ones bad ones every kind of link in between heres what i wish someone told me before i spent my first dollar on links most links dont",
+      "sources": [
+        "til_fabian",
+        "WilsonCompanies",
+        "AddiPPC",
+        "luckwi",
+        "mikebeckhamsm",
+        "FerozeMohideen",
+        "Kevin_Indig",
+        "DarrenShaw_"
+      ],
+      "evidence_strength": 8,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "AEO:ai",
+      "claim_text": "rt _kire_kara_ psst want more faithful verifiable and robust llm reasoning than with cot but using external solvers is meh our flar",
+      "sources": [
+        "PSH_Lewis",
+        "til_fabian",
+        "pedrodias",
+        "rmstein",
+        "AddiPPC",
+        "aleyda",
+        "iPullRank"
+      ],
+      "evidence_strength": 7,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "AGENTIC_COMMERCE:agent_ai",
+      "claim_text": "rt therealadamg httpsopenaicomindexresearchaccelerationviewinsideopenai today we are providing a detailed snapshot of how agentic systems have contributed to our progr",
+      "sources": [
+        "ndrewpignanelli",
+        "BranaRakic",
+        "retailgeek",
+        "RajeswarSai",
+        "bryantchou",
+        "Romain_Lapeyre"
+      ],
+      "evidence_strength": 6,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "SHOPIFY:",
+      "claim_text": "we believe the most value will accrue at the application layer where the real work happens while frontier labs have cracked into the app layer for dataheavy use cases like coding the battle for co",
+      "sources": [
+        "apurvas96",
+        "rmstein",
+        "gilgNYC",
+        "FerozeMohideen",
+        "rishabhmjain",
+        "igrigorik"
+      ],
+      "evidence_strength": 6,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "DTC_ECONOMICS:ai",
+      "claim_text": "google just published an official guide on optimizing for ai overviews and ai mode we have been telling clients this for two years now its officially on googles dev blog their thesis ai search",
+      "sources": [
+        "til_fabian",
+        "mikebeckhamsm",
+        "connorrolain",
+        "TaylorHoliday"
+      ],
+      "evidence_strength": 4,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "SHOPIFY:shopify",
+      "claim_text": "joshaquiladev shopify technical stuff i bet pc parts are a huge category here",
+      "sources": [
+        "kurtinc",
+        "gilgNYC",
+        "Romain_Lapeyre",
+        "yoavweiss"
+      ],
+      "evidence_strength": 4,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "DTC_ECONOMICS:",
+      "claim_text": "only move into another trade or market when you can answer a few important questions can we predictably generate enough leads to support the existing operation do we know our cac and acceptabl",
+      "sources": [
+        "WilsonCompanies",
+        "andrewjfaris",
+        "mikebeckhamsm",
+        "TaylorHoliday"
+      ],
+      "evidence_strength": 4,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "META_CREATIVE:",
+      "claim_text": "huggingface building support to hook into r and rs builtin rag and tools capabilities developed by my team",
+      "sources": [
+        "PSH_Lewis",
+        "couuor",
+        "DenneyDara"
+      ],
+      "evidence_strength": 3,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "PERFORMANCE_MARKETING:ai",
+      "claim_text": "kodynordquist did you scale content and seo in parallel with the paid ramp or is paid carrying it solo the brands i have watched do this cleanly always had organic catching the spillover",
+      "sources": [
+        "til_fabian",
+        "retailgeek",
+        "iPullRank"
+      ],
+      "evidence_strength": 3,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "AGENTIC_COMMERCE:agent_shopify",
+      "claim_text": "zmbnski shopify the screenshot is the agentic dashboard under sales channels the rest is filtering in shopify analytics",
+      "sources": [
+        "kurtinc",
+        "gilgNYC",
+        "igrigorik"
+      ],
+      "evidence_strength": 3,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "SHOPIFY:agent_shopify",
+      "claim_text": "zmbnski shopify the screenshot is the agentic dashboard under sales channels the rest is filtering in shopify analytics",
+      "sources": [
+        "kurtinc",
+        "gilgNYC",
+        "igrigorik"
+      ],
+      "evidence_strength": 3,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "AGENTIC_COMMERCE:ai",
+      "claim_text": "rt _kire_kara_ psst want more faithful verifiable and robust llm reasoning than with cot but using external solvers is meh our flar",
+      "sources": [
+        "PSH_Lewis",
+        "til_fabian"
+      ],
+      "evidence_strength": 2,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "AGENTIC_COMMERCE:",
+      "claim_text": "huggingface building support to hook into r and rs builtin rag and tools capabilities developed by my team",
+      "sources": [
+        "PSH_Lewis",
+        "Romain_Lapeyre"
+      ],
+      "evidence_strength": 2,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "SHOPIFY:ai",
+      "claim_text": "google just published an official guide on optimizing for ai overviews and ai mode we have been telling clients this for two years now its officially on googles dev blog their thesis ai search",
+      "sources": [
+        "til_fabian",
+        "gilgNYC"
+      ],
+      "evidence_strength": 2,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "CRO:7_ai",
+      "claim_text": "owning a 7figure ecommerce brand has been the biggest lever ive ever pulled for client fulfillment in my seo agency we only work with ecom brands because at a certain point you stop doing onl",
+      "sources": [
+        "til_fabian",
+        "andrewjfaris"
+      ],
+      "evidence_strength": 2,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "SHOPIFY:ai_shopify",
+      "claim_text": "rt shauneng dozens of clean ecom brands lose their shopify payments every month shopify finally said why its exactly what ive been",
+      "sources": [
+        "til_fabian",
+        "igrigorik"
+      ],
+      "evidence_strength": 2,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "AMAZON:",
+      "claim_text": "fba gas ive always wondered too",
+      "sources": [
+        "pedrodias",
+        "retailgeek"
+      ],
+      "evidence_strength": 2,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "AEO:shopify",
+      "claim_text": "so much change happening on shopify new rev share new catalog api new sidekick extensions in the admin i talked to atleeclark and eytanseidman about it this week on the unofficial shopify podc",
+      "sources": [
+        "kurtinc",
+        "Romain_Lapeyre"
+      ],
+      "evidence_strength": 2,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "AGENTIC_COMMERCE:shopify",
+      "claim_text": "so much change happening on shopify new rev share new catalog api new sidekick extensions in the admin i talked to atleeclark and eytanseidman about it this week on the unofficial shopify podc",
+      "sources": [
+        "kurtinc",
+        "Romain_Lapeyre"
+      ],
+      "evidence_strength": 2,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "CRO:",
+      "claim_text": "davediederen homepage deserves more respect than it gets realistically its everybodys number one landing page whether they like it or not",
+      "sources": [
+        "kurtinc",
+        "andrewjfaris"
+      ],
+      "evidence_strength": 2,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "AEO:chatgpt",
+      "claim_text": "chatgpt built its own search index it has its own retrieval store its own family of indexes its own ranking stack its own caching layer and its actively hiring to build out all of it tomekru",
+      "sources": [
+        "aleyda",
+        "seosmarty"
+      ],
+      "evidence_strength": 2,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "AEO:6",
+      "claim_text": "a fun workflow is to quickly scaffold out web apps with gpt 6 astra medhigh and then ask it to convert them to native ios apps your settings and data are stored ondevice and for things like maps",
+      "sources": [
+        "gilgNYC",
+        "couuor"
+      ],
+      "evidence_strength": 2,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "GOOGLE_ADS:",
+      "claim_text": "the associate and buyer work together in the ad acct to identify opportunities were largely looking at thumb stop rates view duration ctr and roas depending on what we find the associate has",
+      "sources": [
+        "couuor",
+        "JoyanneHawkins"
+      ],
+      "evidence_strength": 2,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "GOOGLE_ADS:agent",
+      "claim_text": "rt claudedevs were opensourcing claude commerce agents this is a blueprint for building shopping and merchant agents with reference",
+      "sources": [
+        "cyberandy",
+        "igrigorik"
+      ],
+      "evidence_strength": 2,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "AEO:ai_chatgpt",
+      "claim_text": "i need my claude and chatgpt to not sound like sycophantic ai slop surely it can learn to just communicate back to me the way i communicate to it",
+      "sources": [
+        "rishabhmjain",
+        "lilyraynyc"
+      ],
+      "evidence_strength": 2,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "PERFORMANCE_MARKETING:agent_ai",
+      "claim_text": "early look into new marketing analyst agent pulls ad platform data pulls first party data server logs client events builds attribution model in python using channelattribution and markov chain t",
+      "sources": [
+        "bryantchou",
+        "Romain_Lapeyre"
+      ],
+      "evidence_strength": 2,
+      "validation_status": "SUPPORTED"
+    },
+    {
+      "claim_id": "SHOPIFY:agent",
+      "claim_text": "should you build or buy your agent its a hard call to make i was chatting with a merchant this week they run a big business with very thin margins they are running on our helpdesk but built th",
+      "sources": [
+        "Romain_Lapeyre",
+        "igrigorik"
+      ],
+      "evidence_strength": 2,
+      "validation_status": "SUPPORTED"
+    }
+  ],
+  "contradictions": [
+    {
+      "domain": "PERFORMANCE_MARKETING",
+      "counter_signals": 7,
+      "validation_signals": 10,
+      "counter_examples": [
+        "I have built thousands of backlinks over the years.  Good ones. Bad ones. Every kind of link in betw",
+        "Only move into another trade or market when you can answer a few important questions:  > Can we pred"
+      ]
+    },
+    {
+      "domain": "AEO",
+      "counter_signals": 3,
+      "validation_signals": 13,
+      "counter_examples": [
+        "\ud83d\udcca Are you tracking actually meaningful AI search biz KPI that help you to understand your AI search ",
+        "\ud83d\udcca Are you tracking actually meaningful AI search biz KPI that help you to understand your AI search "
+      ]
+    },
+    {
+      "domain": "DTC_ECONOMICS",
+      "counter_signals": 3,
+      "validation_signals": 1,
+      "counter_examples": [
+        "Only move into another trade or market when you can answer a few important questions:  > Can we pred",
+        "Most businesses don\u2019t have a budget problem\u2014they\u2019re trying to scale from the wrong phase, and that\u2019s"
+      ]
+    },
+    {
+      "domain": "GOOGLE_ADS",
+      "counter_signals": 3,
+      "validation_signals": 3,
+      "counter_examples": [
+        "Everybody wants to fill in Google's shiny new AI shopping fields first. That's actually the last ste",
+        "I just had a call with someone who spent 10k on an agency and then 10k on advertising and didn't get"
+      ]
+    }
+  ],
+  "source_reputation": {
+    "ndrewpignanelli": {
+      "total_signals": 3,
+      "empirical_signals": 0,
+      "corroborated": 2,
+      "domains": [
+        "AGENTIC_COMMERCE",
+        "PERFORMANCE_MARKETING"
+      ],
+      "corroboration_rate": 0.6666666666666666
+    },
+    "FredaDuan": {
+      "total_signals": 14,
+      "empirical_signals": 11,
+      "corroborated": 1,
+      "domains": [
+        "AGENTIC_COMMERCE",
+        "DTC_ECONOMICS",
+        "PERFORMANCE_MARKETING",
+        "AEO"
+      ],
+      "corroboration_rate": 0.07142857142857142
+    },
+    "BranaRakic": {
+      "total_signals": 1,
+      "empirical_signals": 0,
+      "corroborated": 1,
+      "domains": [
+        "AGENTIC_COMMERCE"
+      ],
+      "corroboration_rate": 1.0
+    },
+    "PSH_Lewis": {
+      "total_signals": 10,
+      "empirical_signals": 0,
+      "corroborated": 9,
+      "domains": [
+        "AGENTIC_COMMERCE",
+        "META_CREATIVE",
+        "AEO"
+      ],
+      "corroboration_rate": 0.9
+    },
+    "apurvas96": {
+      "total_signals": 1,
+      "empirical_signals": 0,
+      "corroborated": 1,
+      "domains": [
+        "SHOPIFY"
+      ],
+      "corroboration_rate": 1.0
+    },
+    "til_fabian": {
+      "total_signals": 28,
+      "empirical_signals": 6,
+      "corroborated": 8,
+      "domains": [
+        "AEO",
+        "AMAZON",
+        "GOOGLE_ADS",
+        "PERFORMANCE_MARKETING",
+        "PRODUCT_DISCOVERY",
+        "CRO",
+        "SHOPIFY",
+        "DROPSHIPPING",
+        "AGENTIC_COMMERCE",
+        "DTC_ECONOMICS"
+      ],
+      "corroboration_rate": 0.2857142857142857
+    },
+    "pedrodias": {
+      "total_signals": 4,
+      "empirical_signals": 0,
+      "corroborated": 4,
+      "domains": [
+        "AMAZON",
+        "AEO"
+      ],
+      "corroboration_rate": 1.0
+    },
+    "AdrianJohnst": {
+      "total_signals": 2,
+      "empirical_signals": 1,
+      "corroborated": 0,
+      "domains": [
+        "AGENTIC_COMMERCE"
+      ],
+      "corroboration_rate": 0.0
+    },
+    "kurtinc": {
+      "total_signals": 32,
+      "empirical_signals": 11,
+      "corroborated": 11,
+      "domains": [
+        "AEO",
+        "PRODUCT_DISCOVERY",
+        "GOOGLE_ADS",
+        "CRO",
+        "SHOPIFY",
+        "AGENTIC_COMMERCE",
+        "DTC_ECONOMICS"
+      ],
+      "corroboration_rate": 0.34375
+    },
+    "rmstein": {
+      "total_signals": 6,
+      "empirical_signals": 0,
+      "corroborated": 3,
+      "domains": [
+        "AGENTIC_COMMERCE",
+        "SHOPIFY",
+        "AEO"
+      ],
+      "corroboration_rate": 0.5
+    },
+    "WilsonCompanies": {
+      "total_signals": 7,
+      "empirical_signals": 1,
+      "corroborated": 2,
+      "domains": [
+        "DROPSHIPPING",
+        "PERFORMANCE_MARKETING",
+        "AMAZON",
+        "DTC_ECONOMICS"
+      ],
+      "corroboration_rate": 0.2857142857142857
+    },
+    "AddiPPC": {
+      "total_signals": 34,
+      "empirical_signals": 1,
+      "corroborated": 5,
+      "domains": [
+        "AEO",
+        "PRODUCT_DISCOVERY",
+        "GOOGLE_ADS",
+        "PERFORMANCE_MARKETING",
+        "DTC_ECONOMICS"
+      ],
+      "corroboration_rate": 0.14705882352941177
+    },
+    "aleyda": {
+      "total_signals": 18,
+      "empirical_signals": 3,
+      "corroborated": 5,
+      "domains": [
+        "AGENTIC_COMMERCE",
+        "PRODUCT_DISCOVERY",
+        "GOOGLE_ADS",
+        "AEO"
+      ],
+      "corroboration_rate": 0.2777777777777778
+    },
+    "andrewjfaris": {
+      "total_signals": 7,
+      "empirical_signals": 2,
+      "corroborated": 4,
+      "domains": [
+        "AEO",
+        "CRO",
+        "DTC_ECONOMICS"
+      ],
+      "corroboration_rate": 0.5714285714285714
+    },
+    "gilgNYC": {
+      "total_signals": 16,
+      "empirical_signals": 0,
+      "corroborated": 7,
+      "domains": [
+        "AEO",
+        "PERFORMANCE_MARKETING",
+        "CRO",
+        "SHOPIFY",
+        "AGENTIC_COMMERCE",
+        "DTC_ECONOMICS"
+      ],
+      "corroboration_rate": 0.4375
+    },
+    "daviefogarty": {
+      "total_signals": 8,
+      "empirical_signals": 1,
+      "corroborated": 0,
+      "domains": [
+        "AEO",
+        "GOOGLE_ADS",
+        "SHOPIFY",
+        "DROPSHIPPING",
+        "PERFORMANCE_MARKETING"
+      ],
+      "corroboration_rate": 0.0
+    },
+    "toddlzt0": {
+      "total_signals": 8,
+      "empirical_signals": 0,
+      "corroborated": 1,
+      "domains": [
+        "AGENTIC_COMMERCE",
+        "AEO"
+      ],
+      "corroboration_rate": 0.125
+    },
+    "luckwi": {
+      "total_signals": 3,
+      "empirical_signals": 0,
+      "corroborated": 1,
+      "domains": [
+        "AGENTIC_COMMERCE",
+        "PERFORMANCE_MARKETING",
+        "AEO"
+      ],
+      "corroboration_rate": 0.3333333333333333
+    },
+    "retailgeek": {
+      "total_signals": 27,
+      "empirical_signals": 0,
+      "corroborated": 3,
+      "domains": [
+        "AEO",
+        "AMAZON",
+        "PRODUCT_DISCOVERY",
+        "GOOGLE_ADS",
+        "PERFORMANCE_MARKETING",
+        "CRO",
+        "SHOPIFY",
+        "AGENTIC_COMMERCE"
+      ],
+      "corroboration_rate": 0.1111111111111111
+    },
+    "mikebeckhamsm": {
+      "total_signals": 8,
+      "empirical_signals": 2,
+      "corroborated": 3,
+      "domains": [
+        "PERFORMANCE_MARKETING",
+        "AMAZON",
+        "DTC_ECONOMICS"
+      ],
+      "corroboration_rate": 0.375
+    },
+    "thehvacjack": {
+      "total_signals": 2,
+      "empirical_signals": 0,
+      "corroborated": 0,
+      "domains": [
+        "DTC_ECONOMICS"
+      ],
+      "corroboration_rate": 0.0
+    },
+    "couuor": {
+      "total_signals": 11,
+      "empirical_signals": 3,
+      "corroborated": 4,
+      "domains": [
+        "AEO",
+        "GOOGLE_ADS",
+        "PERFORMANCE_MARKETING",
+        "META_CREATIVE",
+        "AGENTIC_COMMERCE"
+      ],
+      "corroboration_rate": 0.36363636363636365
+    },
+    "cyberandy": {
+      "total_signals": 7,
+      "empirical_signals": 0,
+      "corroborated": 3,
+      "domains": [
+        "AGENTIC_COMMERCE",
+        "GOOGLE_ADS",
+        "PERFORMANCE_MARKETING",
+        "AEO"
+      ],
+      "corroboration_rate": 0.42857142857142855
+    },
+    "JoyanneHawkins": {
+      "total_signals": 1,
+      "empirical_signals": 0,
+      "corroborated": 1,
+      "domains": [
+        "GOOGLE_ADS"
+      ],
+      "corroboration_rate": 1.0
+    },
+    "RajeswarSai": {
+      "total_signals": 6,
+      "empirical_signals": 0,
+      "corroborated": 3,
+      "domains": [
+        "AGENTIC_COMMERCE",
+        "META_CREATIVE",
+        "AEO"
+      ],
+      "corroboration_rate": 0.5
+    },
+    "FerozeMohideen": {
+      "total_signals": 5,
+      "empirical_signals": 0,
+      "corroborated": 4,
+      "domains": [
+        "AGENTIC_COMMERCE",
+        "AEO",
+        "PERFORMANCE_MARKETING",
+        "SHOPIFY"
+      ],
+      "corroboration_rate": 0.8
+    },
+    "DenneyDara": {
+      "total_signals": 16,
+      "empirical_signals": 0,
+      "corroborated": 3,
+      "domains": [
+        "AEO",
+        "PERFORMANCE_MARKETING",
+        "META_CREATIVE",
+        "AGENTIC_COMMERCE",
+        "DTC_ECONOMICS"
+      ],
+      "corroboration_rate": 0.1875
+    },
+    "iPullRank": {
+      "total_signals": 19,
+      "empirical_signals": 2,
+      "corroborated": 7,
+      "domains": [
+        "PERFORMANCE_MARKETING",
+        "AGENTIC_COMMERCE",
+        "GOOGLE_ADS",
+        "AEO"
+      ],
+      "corroboration_rate": 0.3684210526315789
+    },
+    "ethan_graphite": {
+      "total_signals": 1,
+      "empirical_signals": 0,
+      "corroborated": 0,
+      "domains": [
+        "SHOPIFY"
+      ],
+      "corroboration_rate": 0.0
+    },
+    "rishabhmjain": {
+      "total_signals": 4,
+      "empirical_signals": 0,
+      "corroborated": 3,
+      "domains": [
+        "AGENTIC_COMMERCE",
+        "SHOPIFY",
+        "AEO"
+      ],
+      "corroboration_rate": 0.75
+    },
+    "connorrolain": {
+      "total_signals": 3,
+      "empirical_signals": 0,
+      "corroborated": 2,
+      "domains": [
+        "META_CREATIVE",
+        "DTC_ECONOMICS"
+      ],
+      "corroboration_rate": 0.6666666666666666
+    },
+    "bryantchou": {
+      "total_signals": 3,
+      "empirical_signals": 0,
+      "corroborated": 3,
+      "domains": [
+        "AGENTIC_COMMERCE",
+        "PERFORMANCE_MARKETING"
+      ],
+      "corroboration_rate": 1.0
+    },
+    "TaylorHoliday": {
+      "total_signals": 6,
+      "empirical_signals": 0,
+      "corroborated": 2,
+      "domains": [
+        "AMAZON",
+        "PERFORMANCE_MARKETING",
+        "META_CREATIVE",
+        "DTC_ECONOMICS"
+      ],
+      "corroboration_rate": 0.3333333333333333
+    },
+    "seosmarty": {
+      "total_signals": 4,
+      "empirical_signals": 0,
+      "corroborated": 1,
+      "domains": [
+        "AGENTIC_COMMERCE",
+        "AEO"
+      ],
+      "corroboration_rate": 0.25
+    },
+    "Romain_Lapeyre": {
+      "total_signals": 36,
+      "empirical_signals": 17,
+      "corroborated": 11,
+      "domains": [
+        "AEO",
+        "AMAZON",
+        "GOOGLE_ADS",
+        "PERFORMANCE_MARKETING",
+        "SHOPIFY",
+        "AGENTIC_COMMERCE"
+      ],
+      "corroboration_rate": 0.3055555555555556
+    },
+    "MenachemAni": {
+      "total_signals": 13,
+      "empirical_signals": 4,
+      "corroborated": 0,
+      "domains": [
+        "AEO",
+        "GOOGLE_ADS",
+        "INTERNATIONAL",
+        "PRODUCT_DISCOVERY",
+        "SHOPIFY",
+        "PERFORMANCE_MARKETING"
+      ],
+      "corroboration_rate": 0.0
+    },
+    "thetysonchen": {
+      "total_signals": 1,
+      "empirical_signals": 0,
+      "corroborated": 0,
+      "domains": [
+        "PERFORMANCE_MARKETING"
+      ],
+      "corroboration_rate": 0.0
+    },
+    "igrigorik": {
+      "total_signals": 46,
+      "empirical_signals": 0,
+      "corroborated": 13,
+      "domains": [
+        "AEO",
+        "AMAZON",
+        "GOOGLE_ADS",
+        "PRODUCT_DISCOVERY",
+        "PERFORMANCE_MARKETING",
+        "CRO",
+        "SHOPIFY",
+        "DROPSHIPPING",
+        "AGENTIC_COMMERCE"
+      ],
+      "corroboration_rate": 0.2826086956521739
+    },
+    "Kevin_Indig": {
+      "total_signals": 2,
+      "empirical_signals": 0,
+      "corroborated": 2,
+      "domains": [
+        "PERFORMANCE_MARKETING"
+      ],
+      "corroboration_rate": 1.0
+    },
+    "lilyraynyc": {
+      "total_signals": 2,
+      "empirical_signals": 0,
+      "corroborated": 1,
+      "domains": [
+        "AMAZON",
+        "AEO"
+      ],
+      "corroboration_rate": 0.5
+    },
+    "yoavweiss": {
+      "total_signals": 7,
+      "empirical_signals": 0,
+      "corroborated": 2,
+      "domains": [
+        "AEO",
+        "AGENTIC_COMMERCE",
+        "SHOPIFY"
+      ],
+      "corroboration_rate": 0.2857142857142857
+    },
+    "DarrenShaw_": {
+      "total_signals": 1,
+      "empirical_signals": 0,
+      "corroborated": 1,
+      "domains": [
+        "PERFORMANCE_MARKETING"
+      ],
+      "corroboration_rate": 1.0
+    }
+  }
+}

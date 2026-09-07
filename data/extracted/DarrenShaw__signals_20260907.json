@@ -1,0 +1,24 @@
+[
+  {
+    "signal_id": "sig_1814111960591737263_PERFORMANCE_MARKETING_dec20871",
+    "post_id": "1814111960591737263",
+    "author_handle": "DarrenShaw_",
+    "published_at": "2026-09-07T09:54:25.006371+00:00",
+    "signal_type": "OBSERVATION",
+    "domain": "PERFORMANCE_MARKETING",
+    "claim": "@DavidKyle @GoogleAds I\u2019m so curious to see how much money they lose as brands struggle to set up alternative payment and then just decide to not bother and shift that spend to something else.",
+    "claim_quantitative": false,
+    "sample_size": null,
+    "methodology": null,
+    "recommendation": null,
+    "is_self_reported": true,
+    "has_data": false,
+    "is_thread": false,
+    "thread_length": 1,
+    "thread_position": "STANDALONE",
+    "is_reply": false,
+    "conviction": "LOW",
+    "evidence_count": 1,
+    "extracted_at": "2026-09-07T09:54:25.006402+00:00"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "signal_id": "sig_2067602002226405833_PERFORMANCE_MARKETING_a566fac1",
+    "post_id": "2067602002226405833",
+    "author_handle": "georgeprobook",
+    "published_at": "Thu Jun 18 13:35:06 +0000 2026",
+    "signal_type": "VALIDATION",
+    "domain": "PERFORMANCE_MARKETING",
+    "claim": "For most of @probookai history, our entire sales team was one person. Me.  People would walk up at conferences and ask where our sales team was. \"You're talking to him.\"  I came up in the trades befor...",
+    "claim_quantitative": true,
+    "sample_size": null,
+    "methodology": null,
+    "recommendation": "DO_THIS",
+    "is_self_reported": true,
+    "has_data": false,
+    "is_thread": false,
+    "thread_length": 1,
+    "thread_position": "STANDALONE",
+    "is_reply": false,
+    "conviction": "MEDIUM",
+    "evidence_count": 2,
+    "extracted_at": "2026-09-07T10:35:24.957753+00:00"
+  }
+]
