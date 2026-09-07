@@ -294,6 +294,66 @@
       "fetch_threads": true
     },
     {
+      "handle": "AndrewLolk",
+      "name": "Andrew Lolk",
+      "domains": ["GOOGLE_ADS", "AGENTIC_COMMERCE"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Sharpest strategic read on AI Max Shopping",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "mikeryanretail",
+      "name": "Mike Ryan",
+      "domains": ["GOOGLE_ADS", "AGENTIC_COMMERCE"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Analytical retail PPC operator, AI Mode ads",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "PPCKirk",
+      "name": "Kirk Williams",
+      "domains": ["GOOGLE_ADS", "PERFORMANCE_MARKETING"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Skeptical Shopping/feed operator",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
+      "handle": "GinnyMarvin",
+      "name": "Ginny Marvin",
+      "domains": ["GOOGLE_ADS"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Google Ads Liaison — platform changes",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "rustybrick",
+      "name": "Barry Schwartz",
+      "domains": ["GOOGLE_ADS", "SEO"],
+      "tier": "GOLD",
+      "weight": 1.0,
+      "notes": "Catches obscure Google tests/features",
+      "fetch_replies": true,
+      "fetch_threads": true
+    },
+    {
+      "handle": "skuanalyzer",
+      "name": "Samuli Kesseli",
+      "domains": ["GOOGLE_ADS", "PRODUCT_DISCOVERY"],
+      "tier": "SILVER",
+      "weight": 0.8,
+      "notes": "Implementation material around conversational attributes",
+      "fetch_replies": false,
+      "fetch_threads": true
+    },
+    {
       "handle": "kurtinc",
       "name": "Kurt Elster",
       "domains": ["AEO", "SHOPIFY", "AGENTIC_COMMERCE"],
