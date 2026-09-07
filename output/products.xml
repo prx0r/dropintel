@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Norwegian Spare Parts</title>
+    <link>https://example.com</link>
+    <description>Compatible spare parts for Norwegian buildings</description>
+    <item>
+      <g:id>GU-923X</g:id>
+      <title>GU Espagnolette 923X</title>
+      <description>Replacement part for GU Espagnolette 923X</description>
+      <g:brand/>
+      <g:mpn>6-28740</g:mpn>
+      <g:price>0</g:price>
+      <g:availability>in_stock</g:availability>
+      <link/>
+      <g:image_link/>
+    </item>
+    <item>
+      <g:id>GU-934K</g:id>
+      <title>GU New Gearbox</title>
+      <description>Replacement part for GU New Gearbox</description>
+      <g:brand/>
+      <g:mpn>934K</g:mpn>
+      <g:price>0</g:price>
+      <g:availability>in_stock</g:availability>
+      <link/>
+      <g:image_link/>
+    </item>
+    <item>
+      <g:id>ASSA-60</g:id>
+      <title>ASSA Cylinder 60mm</title>
+      <description>Replacement part for ASSA Cylinder 60mm</description>
+      <g:brand/>
+      <g:mpn>ASSA-60</g:mpn>
+      <g:price>0</g:price>
+      <g:availability>in_stock</g:availability>
+      <link/>
+      <g:image_link/>
+    </item>
+  </channel>
+</rss>
